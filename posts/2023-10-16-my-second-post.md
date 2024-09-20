@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "My Second Blog Post"
 date: 2023-10-16 12:00:00 +0000
 categories: [blog, personal]
