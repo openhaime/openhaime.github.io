@@ -1,0 +1,14 @@
+sidebar-navigation:
+  - title: "Home"
+    url: "/"
+    external: false
+  - title: "About"
+    url: "/about/"
+    external: false
+  - title: "Blog"
+    url: "/blog/"
+    external: false
+    children:
+      - title: "All Posts"
+        url: "/posts/"
+        external: false

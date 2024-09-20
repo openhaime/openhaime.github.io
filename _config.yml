@@ -1,7 +1,8 @@
 title: My Personal Site
 description: >- # this means to treat the next lines as a single string
   Welcome to my personal website built with Jekyll and GitHub Pages.
-theme: minima
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "neon"
 menu:
   home:
     title: "Home"
@@ -12,3 +13,14 @@ menu:
   blog:
     title: "Blog"
     url: "/"
+# Minimal Mistakes theme settings
+sidebar:
+  nav: "sidebar-navigation"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-sitemap
