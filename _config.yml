@@ -1,0 +1,14 @@
+title: My Personal Site
+description: >- # this means to treat the next lines as a single string
+  Welcome to my personal website built with Jekyll and GitHub Pages.
+theme: minima
+menu:
+  home:
+    title: "Home"
+    url: "/"
+  about:
+    title: "About"
+    url: "/about/"
+  blog:
+    title: "Blog"
+    url: "/"
