@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Blog Post"
-date: YYYY-MM-DD HH:MM:SS +0000
+date: 2023-10-15 12:00:00 +0000
 categories: [blog, personal]
 ---
 
