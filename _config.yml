@@ -15,7 +15,7 @@ menu:
     url: "/"
 # Minimal Mistakes theme settings
 sidebar:
-  nav: "sidebar-navigation"
+  nav: "main" 
 
 plugins:
   - jekyll-remote-theme
